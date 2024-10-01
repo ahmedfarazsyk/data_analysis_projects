@@ -5,6 +5,7 @@
 - [Projects](#projects)
   - [1. Sales Insights](#1-sales-insights)
   - [2. T20 Cricket Analysis](#2-t20-cricket-analysis)
+  - [3. HR Data Analytics](#3-hr-data-analytics)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [License](#license)
@@ -57,6 +58,7 @@ To open and interact with the `.pbix` files in this repository, you need to have
 1. Download the `.pbix` file of the project you are interested in:
    - `sales_insights.pbix`
    - `t20_cric_analysis.pbix`
+   - `hr_data_analytics.pbix`
 2. Open the file using Power BI Desktop.
 3. Explore the dashboard to analyze the data and gain insights.
 
