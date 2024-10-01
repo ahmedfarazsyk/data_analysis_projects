@@ -37,6 +37,15 @@ The main tools used are: SQL, Power BI, Python and Excel.
   - Key insights into batting and bowling performances
   - Final 11 players.
 
+### 2. HR Data Analytics
+- **File**: `hr_data_analytics.pbix`
+- **Description**: This project offers a detailed analysis of Atliq Technology’s employee attendance data from April, May, and June 2022. Using Power BI, the project consolidates the data into a unified table, providing key insights into employee presence and absence patterns. The dashboard allows HR teams to monitor attendance trends and identify areas for improvement in employee engagement and productivity.
+- **Features**:
+  - Consolidated attendance data for April, May, and June 2022.
+  - Attendance trends analysis (daily, monthly, quaterly, yearly).
+  - Overall Presence and absence insights and breakdown by employees.
+  - Comparission of different types of leaves from overall absent days.
+  - Insightful dashboards for employee attendance monitoring and decision-making.
 ---
 
 ## Requirements
